@@ -2,7 +2,7 @@
 NVIDIA GPU Automatic fans speed script for HiveOS / ethOS / Ubuntu
 
 # Easy Setup #1
-0. 
+
 1. Connect to your rig via SSH or Teleconsole
 2. Next, enter a set of commands:
 * cd home/user/
@@ -22,8 +22,8 @@ Should see the script working
 
 Only change these settings
 
-MIN_TEMP=60
-MAX_TEMPP=700
+MIN_TEMP=60/
+MAX_TEMPP=70
 
 MIN_COEF=80
 MAX_COEF=110
