@@ -22,11 +22,11 @@ Should see the script working
 
 Only change these settings
 
-MIN_TEMP=60/
-MAX_TEMPP=70
+MIN_TEMP=60 <br>
+MAX_TEMPP=70 <br>
 
-MIN_COEF=80
-MAX_COEF=110
+MIN_COEF=80 <br> 
+MAX_COEF=110 <br>
 
 If you need a more aggressive fan mode, first try increasing MIN_COEF=85
 
