@@ -5,20 +5,20 @@ NVIDIA GPU Automatic fans speed script for HiveOS / ethOS / Ubuntu
 
 1. Connect to your rig via SSH or Teleconsole
 2. Next, enter a set of commands:
-<blockquote>cd home/user/
+<cd home/user/>
 wget http://vitosap.ru/fan.sh
 wget http://vitosap.ru/xinit.user.sh
 chmod +x /home/user/fan.sh
-chmod +x /home/user/xinit.user.sh</blockquote>
+chmod +x /home/user/xinit.user.sh
 
 Done!
 
 3. Functional test:
-<blockquote>screen -r fan</blockquote>
+screen -r fan
 Should see the script working
 
 4. Edit fans config:
-<blockquote>nano /home/user/fan.sh</blockquote>
+nano /home/user/fan.sh
 
 Only change these settings
 
