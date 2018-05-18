@@ -36,6 +36,7 @@ http://t.me/formining
 
 # Donate
 4mining.ru - Nvidia AutoFans Script - HiveOS / ethOS / Ubuntu
+
 BTC donate: 15Kwt97RuqnJhWi1bQaGH7m43T3gXjcZFD
 ETC donate: 0x092f601ac0e475809987164986f27c20245d72ca
 ETH donate: 0xe835a7d5605a370e4750279b28f9ce0926061ea2
