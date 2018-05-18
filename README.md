@@ -49,6 +49,6 @@ http://t.me/formining
 
 BTC donate: 15Kwt97RuqnJhWi1bQaGH7m43T3gXjcZFD <br>
 ETC donate: 0x092f601ac0e475809987164986f27c20245d72ca <br> 
-ETH donate: 0xe835a7d5605a370e4750279b28f9ce0926061ea2 <br> 
+ETH donate: 0x425e6b94efc720f61a5e1b22c2710476e64d9221 <br> 
 XMR donate: 463tWEBn5XZJSxLU6uLQnQ2iY9xuNcDbjLSjkn3XAXHCbLrTTErJrBWYgHJQyrCwkNgYvyV3z8zctJLPCZy24jvb3NiTcTJ <br> 
 ZEC donate: t1UwudzgKp9hegkkkdPqQuroT7sMu8QxMGk <br> 
