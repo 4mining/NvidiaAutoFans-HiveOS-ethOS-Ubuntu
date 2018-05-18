@@ -23,7 +23,7 @@ Should see the script working
 Only change these settings
 
 MIN_TEMP=60
-MAX_TEMP=70
+MAX_TEMPP=700
 
 MIN_COEF=80
 MAX_COEF=110
