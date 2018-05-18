@@ -19,6 +19,7 @@ wget http://vitosap.ru/xinit.user.sh
 ```
 chmod +x /home/user/fan.sh
 chmod +x /home/user/xinit.user.sh
+reboot
 ```
 
 Done!
